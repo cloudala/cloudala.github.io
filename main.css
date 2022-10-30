@@ -9,6 +9,11 @@ h1, h2, p {
     text-align: justify;
 }
 
+a {
+    display: block;
+    text-align: center;
+}
+
 table, th, td {
     margin-left: auto;
     margin-right: auto;
@@ -33,9 +38,4 @@ table, th, td {
 
 #zoki {
     width:30%;
-}
-
-a {
-    display: block;
-    text-align: center;
 }
