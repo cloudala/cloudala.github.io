@@ -34,3 +34,8 @@ table, th, td {
 #zoki {
     width:30%;
 }
+
+a {
+    display: block;
+    text-align: center;
+}
