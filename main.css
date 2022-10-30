@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(226, 223, 14, 0.178);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2, p {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: center;
+    padding: 20px;
+}
+
+.view {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.view:hover {
+    opacity: 80%;
+}
+
+#zoki {
+    width:30%;
+}
